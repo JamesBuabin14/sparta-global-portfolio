@@ -9,3 +9,7 @@ nav.navbar-default{
 body > nav{
   background: #0d5646;
 }
+
+body > a > footer{
+  background: #0d5646;
+}
