@@ -13,3 +13,15 @@ body > nav{
 body > a > footer{
   background: #0d5646;
 }
+
+#collapse1{
+  background-color: #0d5646;
+}
+
+body > div > div:nth-child(2) > div.col-sm-3 > div.panel-group{
+  background-color: #0d5646;
+}
+
+body > div > div:nth-child(2) > div.col-sm-3 > div.panel-group > div{
+  background-color: #0d5646;
+}
