@@ -1,0 +1,11 @@
+nav.navbar-default{
+  background: #0d5646;
+}
+
+#skills li{
+  list-style-type: none;
+}
+
+body > nav{
+  background: #0d5646;
+}
